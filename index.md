@@ -5,5 +5,5 @@
 
 ## Processing Sketchbook
 
-- Work 1
+- [Work 1](sketches/dynamic/)
 - Work 2
