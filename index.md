@@ -6,5 +6,5 @@
 ## Processing Sketchbook
 
 - [my face](sketches/dynamic/)
-- [ok](sketchbook/W3/2/script.js)
-- [it moves](labs/1/1-1/script.js)
+- [ok](sketches/ok)
+- [it moves](sketches/itmoves)
